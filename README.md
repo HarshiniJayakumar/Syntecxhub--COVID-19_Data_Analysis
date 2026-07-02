@@ -27,4 +27,4 @@ Peak daily cases
 <img width="1358" height="829" alt="Screenshot 2026-07-02 203625" src="https://github.com/user-attachments/assets/c645cec3-0b79-4b90-84d3-e9f4ba73a248" />
 
 Total cases
-<img width="1357" height="848" alt="Screenshot 2026-07-02 203700" src="https://github.com/user-attachments/assets/c5312f3d-6e23-4b5e-b80c-f0931a085ee3" />
+<img width="1357" height="818" alt="Screenshot 2026-07-02 203700" src="https://github.com/user-attachments/assets/9806312b-50e1-417e-9e7f-5f155fb817f3" />
