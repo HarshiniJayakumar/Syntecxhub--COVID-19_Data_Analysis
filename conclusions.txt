@@ -1,0 +1,5 @@
+- Daily and weekly cases computed.
+- Rolling averages smoothed fluctuations.
+- Peak infection dates identified.
+- Country comparison completed.
+- Basic reproduction estimate calculated.
