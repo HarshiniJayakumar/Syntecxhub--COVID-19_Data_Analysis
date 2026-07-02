@@ -6,6 +6,8 @@ owid-covid-data.csv
 
 **Output**
 
+<img width="1081" height="310" alt="image" src="https://github.com/user-attachments/assets/58d7a731-4070-475e-96a6-c9e993320a52" />
+
 Covid Analysis Summary
 
 <img width="1380" height="830" alt="image" src="https://github.com/user-attachments/assets/c10f9293-f276-4730-8342-51e6cda7a8f5" />
